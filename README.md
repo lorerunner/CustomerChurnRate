@@ -34,7 +34,7 @@ There is a notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/e8fde8eaf70a/edit).
+The main findings of the code can be found at the post available [here](https://medium.com/@babylore.cn/how-to-prevent-customer-churn-through-machine-learning-e8fde8eaf70a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
