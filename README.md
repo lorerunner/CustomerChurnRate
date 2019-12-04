@@ -8,7 +8,16 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The project should be run with the following necessary libraries:
+1. python
+2. pyspark
+3. spark
+4. pandas
+5. matplotlib
+6. seaborn
+
+Additionally, we also need to the software installed to run Jupter notebook.
+As for spark, the [AWS EMR](https://console.aws.amazon.com/elasticmapreduce/) or [IBM Watson](https://cloud.ibm.com/developer/watson/dashboard) are suggested to be adapted into the project. 
 
 ## Project Motivation<a name="motivation"></a>
 
